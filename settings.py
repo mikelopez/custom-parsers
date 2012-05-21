@@ -1,0 +1,2 @@
+
+PRODUCT_VIEW = None
