@@ -1,5 +1,6 @@
 from lxml import html
 import feedparser
+# Author - Marcos Lopez - dev@scidentify.info
 
 class RSSParse(object):
 

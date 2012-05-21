@@ -1,6 +1,6 @@
 from datetime import datetime
 from settings import PRODUCT_VIEW
-
+# Author - Marcos Lopez - dev@scidentify.info
 def getmerchant(obj, mid):
   try:
     mer = obj.objects.get(mid=mid)

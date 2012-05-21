@@ -1,6 +1,6 @@
 import re
 
-
+# Author Marcos Lopez - dev@scidentify.info
 def get_ls_offerid(link):
   try:
     r = re.search('offerid=([\w.-]+).([\w.-]+)&', str(link)).group()
